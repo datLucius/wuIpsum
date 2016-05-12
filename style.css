@@ -1,0 +1,51 @@
+* {
+  font-family: 'Inconsolata', sans-serif;
+  color: black;
+  display:block;
+  text-align:center;
+}
+a {
+  margin-top: 100px;
+}
+body {
+  background-color: #FCC315;
+}
+h1 {
+  font-size: 1.75em;
+  font-weight: 700;
+  margin-left: 20px;
+  text-align: left;
+}
+p ::-moz-selection {
+  background: white;
+}
+p ::selection {
+  background: white;
+}
+#button {
+padding:20px;
+background-color: black;
+color: #FCC315;
+width: 300px;
+margin: 0 auto;
+cursor:pointer;
+}
+#fixedContainer {
+ padding-top: 120px;
+ padding-bottom:100px;
+}
+#scroll {
+ padding-top: 2%;
+ padding-right:14%;
+ padding-left:14%;
+ color: black;
+}
+#love {
+ padding-left: 40px;
+ padding-right:40px
+}
+#how {
+ padding-top: 2%;
+ padding-right:14%;
+ padding-left:14%;
+}
